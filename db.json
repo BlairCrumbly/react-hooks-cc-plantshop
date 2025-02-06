@@ -4,43 +4,71 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "inStock": true
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "inStock": true
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 5.99,
+      "inStock": true
     },
     {
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": 12.11,
+      "inStock": true
     },
     {
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": 10.37,
+      "inStock": false
     },
     {
       "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
-      "price": 25.99
+      "price": 25.99,
+      "inStock": false
     },
     {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "price": 55,
+      "inStock": true
+    },
+    {
+      "name": "Birds of paradise",
+      "image": "https://gardenerspath.com/wp-content/uploads/2020/10/Large-Bird-of-Paradise-Plant-Growing-Indoors.jpg",
+      "price": "20",
+      "id": 8,
+      "inStock": false
+    },
+    {
+      "name": "Cactus",
+      "image": "https://th.bing.com/th/id/R.7c1d0d4cc6bbb06c9460775a2401b9a2?rik=aHUURkhySKkg1Q&pid=ImgRaw&r=0",
+      "price": "10",
+      "id": 9,
+      "inStock": false
+    },
+    {
+      "name": "Cac",
+      "image": "https://th.bing.com/th/id/OIP.5T-u0hSAhdpg55tccWo31wHaFf?rs=1&pid=ImgDetMain",
+      "price": "300",
+      "id": 10,
+      "inStock": false
     }
   ]
 }
